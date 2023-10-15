@@ -1,2 +1,2 @@
 # hualala-contract
-哗啦啦（hualala）合约
+ETHHangzhou Hackthon --- 哗啦啦（hualala）合约仓库
